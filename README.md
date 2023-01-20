@@ -1,6 +1,6 @@
 ## 在线预览
 
-[Online Page](https://3lambs.github.io/js-effects/)
+[Online Page](https://3lambs.github.io)
 
 ## 仓库简介
 
