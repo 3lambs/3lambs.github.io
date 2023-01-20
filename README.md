@@ -8,3 +8,4 @@ silence of lambs 合集
 
 ## 内容目录
 
+- [happybirthday](https://3lambs.github.io/birthday/index.html)
